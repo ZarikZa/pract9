@@ -1,0 +1,14 @@
+C:\Users\MSI-MODERN-14\source\repos\Dispetcher\Dispetcher\bin\Debug\net8.0\Dispetcher.exe
+C:\Users\MSI-MODERN-14\source\repos\Dispetcher\Dispetcher\bin\Debug\net8.0\Dispetcher.deps.json
+C:\Users\MSI-MODERN-14\source\repos\Dispetcher\Dispetcher\bin\Debug\net8.0\Dispetcher.runtimeconfig.json
+C:\Users\MSI-MODERN-14\source\repos\Dispetcher\Dispetcher\bin\Debug\net8.0\Dispetcher.dll
+C:\Users\MSI-MODERN-14\source\repos\Dispetcher\Dispetcher\bin\Debug\net8.0\Dispetcher.pdb
+C:\Users\MSI-MODERN-14\source\repos\Dispetcher\Dispetcher\obj\Debug\net8.0\Dispetcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-MODERN-14\source\repos\Dispetcher\Dispetcher\obj\Debug\net8.0\Dispetcher.AssemblyInfoInputs.cache
+C:\Users\MSI-MODERN-14\source\repos\Dispetcher\Dispetcher\obj\Debug\net8.0\Dispetcher.AssemblyInfo.cs
+C:\Users\MSI-MODERN-14\source\repos\Dispetcher\Dispetcher\obj\Debug\net8.0\Dispetcher.csproj.CoreCompileInputs.cache
+C:\Users\MSI-MODERN-14\source\repos\Dispetcher\Dispetcher\obj\Debug\net8.0\Dispetcher.dll
+C:\Users\MSI-MODERN-14\source\repos\Dispetcher\Dispetcher\obj\Debug\net8.0\refint\Dispetcher.dll
+C:\Users\MSI-MODERN-14\source\repos\Dispetcher\Dispetcher\obj\Debug\net8.0\Dispetcher.pdb
+C:\Users\MSI-MODERN-14\source\repos\Dispetcher\Dispetcher\obj\Debug\net8.0\Dispetcher.genruntimeconfig.cache
+C:\Users\MSI-MODERN-14\source\repos\Dispetcher\Dispetcher\obj\Debug\net8.0\ref\Dispetcher.dll
